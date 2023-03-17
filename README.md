@@ -4,7 +4,7 @@ This is a Hangman game using only golang, you can fill the word.txt for more wor
 
 ## Preview
 
-## how to run
+## how to run ?
 
 go run main.go
 
