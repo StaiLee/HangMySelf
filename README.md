@@ -1,6 +1,7 @@
 # HangMySelf
 
 [![CI](https://github.com/StaiLee/HangMySelf/actions/workflows/ci.yml/badge.svg)](https://github.com/StaiLee/HangMySelf/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/StaiLee/HangMySelf?color=39E0D8&logo=github)](https://github.com/StaiLee/HangMySelf/releases/latest)
 [![Go](https://img.shields.io/github/go-mod/go-version/StaiLee/HangMySelf?logo=go&color=00ADD8)](go.mod)
 [![License: MIT](https://img.shields.io/github/license/StaiLee/HangMySelf?color=blue)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/StaiLee/HangMySelf?logo=github&color=e3b341)](https://github.com/StaiLee/HangMySelf/stargazers)
