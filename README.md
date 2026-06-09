@@ -1,5 +1,11 @@
 # HangMySelf
 
+[![CI](https://github.com/StaiLee/HangMySelf/actions/workflows/ci.yml/badge.svg)](https://github.com/StaiLee/HangMySelf/actions/workflows/ci.yml)
+[![Go](https://img.shields.io/github/go-mod/go-version/StaiLee/HangMySelf?logo=go&color=00ADD8)](go.mod)
+[![License: MIT](https://img.shields.io/github/license/StaiLee/HangMySelf?color=blue)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/StaiLee/HangMySelf?logo=github&color=e3b341)](https://github.com/StaiLee/HangMySelf/stargazers)
+
+
 This is a Hangman game using only golang, you can fill the word.txt for more words and make the game harder.
 
 ## Preview
